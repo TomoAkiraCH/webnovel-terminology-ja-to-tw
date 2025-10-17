@@ -14,5 +14,5 @@
     "terms_count": 15,
     "language_pair": "ja-zh-TW",
     "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
-    "notes": "全部採個人興趣翻譯"
+    "notes": "採個人興趣翻譯_部分資料相同"
   }
