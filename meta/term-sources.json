@@ -1,1 +1,9 @@
-
+{
+  "シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜_glossary": {
+    "source": "網路資訊",
+    "last_updated": "2025-10-17",
+    "terms_count": 21,
+    "language_pair": "ja-zh-TW",
+    "compatible_engines": ["DeepL", "GLM-4 Flash"],
+    "notes": "桑樂採用台灣慣用音譯"
+  }
