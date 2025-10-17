@@ -4,6 +4,6 @@
     "last_updated": "2025-10-17",
     "terms_count": 64,
     "language_pair": "ja-zh-TW",
-    "compatible_engines": ["DeepL", "GLM-4 Flash"],
+    "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
     "notes": "桑樂採用台灣慣用音譯"
   }
