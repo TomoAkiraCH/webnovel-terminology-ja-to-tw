@@ -7,3 +7,12 @@
     "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
     "notes": "桑樂採用台灣慣用音譯"
   }
+  {
+  "TS衛生兵さんの成り上がり_glossary": {
+    "source": "個人閱讀小説家になろう平台 (https://ncode.syosetu.com/n1580hl/)",
+    "last_updated": "2025-10-17",
+    "terms_count": 15,
+    "language_pair": "ja-zh-TW",
+    "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
+    "notes": "全部採個人興趣翻譯"
+  }
