@@ -10,7 +10,7 @@
 - [TS衛生兵さんの成り上がり 性轉衛生兵的崛起 詞彙](webnovel/TS衛生兵さんの成り上がり_glossary.csv): 137 條。
 - [シャングリラ・フロンティア 香格里拉·開拓異境〜糞作獵手挑戰神作〜 詞彙](webnovel/シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜_glossary.csv): 64 條。
 - [冒険者になりたいと都に出て行った娘がＳランクになってた 詞彙](webnovel/冒険者になりたいと都に出て行った娘がＳランクになってた_glossary.csv): 51 條。
-- [水属性の魔法使い 詞彙](webnovel/水属性の魔法使い_glossary.csv): 113 條。
+- [水属性の魔法使い 詞彙](webnovel/水属性の魔法使い_glossary.csv): 118 條。
 - [日文常用語 詞彙](webnovel/日文常用語_glossary.csv): 4 條。
 - [來源記錄](meta/term-sources.json): 術語出處。
 
