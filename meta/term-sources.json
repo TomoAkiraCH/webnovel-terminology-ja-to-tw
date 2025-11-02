@@ -4,7 +4,7 @@
     "last_updated": "2025-10-17",
     "terms_count": 64,
     "language_pair": "ja-zh-TW",
-    "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
+    "compatible_engines": ["wiki","DeepL","GLM-4 Flash", "google", "gork"],
     "notes": "桑樂採用台灣慣用音譯_未完成"
   }
   {
@@ -13,6 +13,33 @@
     "last_updated": "2025-10-18",
     "terms_count": 137,
     "language_pair": "ja-zh-TW",
-    "compatible_engines": ["DeepL", "GLM-4 Flash", "google", "gork"],
+    "compatible_engines": ["wiki","DeepL", "GLM-4 Flash", "google", "gork"],
     "notes": "採個人興趣翻譯_部分資料相同"
+  }
+  {
+  "冒険者になりたいと都に出て行った娘がＳランクになってた_glossary": {
+    "source": "個人閱讀小説家になろう平台 ( https://ncode.syosetu.com/n5947eg/)",
+    "last_updated": "2025-11-02",
+    "terms_count": 51,
+    "language_pair": "ja-zh-TW",
+    "compatible_engines": ["wiki","DeepL", "GLM-4 Flash", "google", "gork"],
+    "notes": "採個人興趣翻譯_部分資料相同"
+  }
+    {
+  "水属性の魔法使い_glossary": {
+    "source": "個人閱讀小説家になろう平台 (https://ncode.syosetu.com/n0022gd/)",
+    "last_updated": "2025-11-02",
+    "terms_count": 113,
+    "language_pair": "ja-zh-TW",
+    "compatible_engines": ["wiki","DeepL", "GLM-4 Flash", "google", "gork"],
+    "notes": "採個人興趣翻譯_部分資料相同"
+  }
+    {
+  "日文常用語_glossary": {
+    "source": "CHATGPT (https://chatgpt.com/)",
+    "last_updated": "2025-11-02",
+    "terms_count": 4,
+    "language_pair": "ja-zh-TW",
+    "compatible_engines": ["chatgpt","DeepL","google", "gork"],
+    "notes": "採個人興趣翻譯"
   }
